@@ -1,3 +1,6 @@
+https://cdn.discordapp.com/attachments/817269640857911337/860592441382928434/g8236-y0qog.gif
+
+
 <h1 align="center">Hi 👋, I'm Zare</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvzare&label=Profile%20views&color=0e75b6&style=flat" alt="lvzare" /> </p>
 
