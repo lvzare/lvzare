@@ -4,7 +4,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.lua.org/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/817269640857911337/865047390355718144/1024px-Lua-Logo.png" alt="lua" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.lua.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="lua" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lvzare&show_icons=true&locale=en" alt="lvzare" /></p>
 
